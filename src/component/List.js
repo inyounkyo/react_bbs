@@ -1,9 +1,11 @@
+import ListRow from "./ListRow";
 
 
 function List() {
+
   return (
     <div>
-      List Page
+      <ListRow/>
     </div>
   );
 
